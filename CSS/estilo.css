@@ -1,0 +1,27 @@
+body{
+    background-color: #363636;
+}
+
+header{
+    background-color: LightSteelBlue;
+}
+
+.logo{
+    background-color: red;
+}
+
+nav{
+    background-color: DimGray;
+}
+
+main{
+    background-color: olive;
+}
+
+section{
+    background-color: tan;
+}
+
+footer{
+    background-color: orangered;
+}
